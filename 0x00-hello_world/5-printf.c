@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/*
- * main - prints phrasevwith correct grammar
- * but outcome is a piece of art
- * return 
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
