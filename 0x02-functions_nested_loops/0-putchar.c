@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints _putchar
+ * main - prints _putchar followed by a new line 
  * made by mina
  * Return; 0
  */
