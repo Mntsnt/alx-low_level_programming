@@ -3,7 +3,7 @@
 /**
  * main - prints _putchar followed by a new line
  * made by mina
- * Return; 0
+ * Return; Always 0 (success)
  */
 
 int main(void)
