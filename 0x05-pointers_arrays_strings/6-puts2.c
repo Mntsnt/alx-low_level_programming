@@ -9,6 +9,7 @@
 void puts2(char *str)
 {
 	int l = 0;
+
 	while (*(str + i))
 	{
 		_putchar(*(str + i));
