@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * main - prints _putchar followed by a new line
- * made by mina
- * Return; Always 0 (success)
+ * main - prints _putchar
+ * Return; Always 0
  */
 
 int main(void)
